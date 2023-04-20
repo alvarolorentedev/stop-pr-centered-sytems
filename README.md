@@ -9,7 +9,13 @@ As a developer, I have been able to see the many benefits that the Git platform 
 
 As the software development landscape evolves, it is important to consider other workflows that may be more appropriate for certain projects, allowing teams to focus and be able to achive continious delivery.
 
-Therefore, I am asking that you stop imporving an already over extended tool and help incorporate other tools that can be central to deliver value to organizational users and clientes like for example feature flags. Doing so would provide developers with more options and flexibility when it comes to choosing the right workflow for their project.
+Therefore, I am asking that you stop imporving an already over extended tool and help incorporate other tools that can be central to deliver value to organizational users and clientes. Including but not limited to: 
+- Feature flags
+- Better support for pair programming & coauthoring
+- Better tooling support for trunk based development
+- Disable pull request functionality
+
+Doing so would provide developers with more options and flexibility when it comes to choosing the right workflow for their project.
 
 Once again, thank you for all that you do, and I look forward to seeing where your provider can go in the future.
 
