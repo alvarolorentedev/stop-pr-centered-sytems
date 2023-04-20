@@ -22,3 +22,4 @@ Once again, thank you for all that you do, and I look forward to seeing where yo
 Sincerely,
 
 [@kanekotic](https://github.com/kanekotic) - HoD [@HolaLuz](https://github.com/holaluz)
+[@aleixmorgadas](https://github.com/aleixmorgadas)
