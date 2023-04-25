@@ -24,3 +24,5 @@ Sincerely,
 [@kanekotic](https://github.com/kanekotic) - HoD [@HolaLuz](https://github.com/holaluz)
 
 [@aleixmorgadas](https://github.com/aleixmorgadas)
+
+[@daferpi](https://github.com/daferpi)
